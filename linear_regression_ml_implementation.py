@@ -204,25 +204,10 @@ pickled_model=pickle.load(open('regmodel.pkl','rb'))
 #3 prediction
 pickled_model.predict(scaler.transform(boston_data[0].reshape(1,-1)))
 
+scaler
 
+pickle.dump(scaler, open('scaling.pkl', 'wb'))
 
+pickled_scaling=pickle.load(open('scaling.pkl','rb'))
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+pickled_scaling
