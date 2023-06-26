@@ -38,7 +38,7 @@ To run and contribute to this project, you need the following software and tools
 
 ## Demo
 
-Check out the live demo of the web app deployed on Heroku: [Demo Link](https://endtoendboston.onrender.com/)
+Check out the live demo of the web app deployed on Render: [Demo Link](https://endtoendboston.onrender.com/)
 
 
 ## Setup Instructions
