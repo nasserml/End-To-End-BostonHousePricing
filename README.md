@@ -35,6 +35,12 @@ To run and contribute to this project, you need the following software and tools
 - [VSCode IDE](https://code.visualstudio.com/): Install Visual Studio Code or any preferred IDE for code editing.
 - [Git CLI](https://git-scm.com/): Install Git command-line interface for version control.
 
+
+## Demo
+
+Check out the live demo of the web app deployed on Heroku: [Demo Link](https://endtoendboston.onrender.com/)
+
+
 ## Setup Instructions
 
 To set up the project environment, follow these steps:
